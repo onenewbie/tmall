@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common-utils" />
+        <module name="taotao-common" />
         <module name="taotao-manager-mapper" />
         <module name="taotao-manager-pojo" />
         <module name="taotao-manager-service" />
@@ -15,13 +15,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="common-utils" target="1.5" />
-      <module name="taotao-manager" target="1.5" />
-      <module name="taotao-manager-mapper" target="1.5" />
-      <module name="taotao-manager-pojo" target="1.5" />
-      <module name="taotao-manager-service" target="1.5" />
-      <module name="taotao-manager-web" target="1.5" />
-      <module name="taotao-parent" target="1.5" />
+      <module name="common-utils" target="1.7" />
+      <module name="taotao-common" target="1.7" />
+      <module name="taotao-manager" target="1.7" />
+      <module name="taotao-manager-mapper" target="1.7" />
+      <module name="taotao-manager-pojo" target="1.7" />
+      <module name="taotao-manager-service" target="1.7" />
+      <module name="taotao-manager-web" target="1.7" />
+      <module name="taotao-parent" target="1.7" />
       <module name="taotao-utils" target="1.5" />
     </bytecodeTargetLevel>
   </component>
