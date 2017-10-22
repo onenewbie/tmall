@@ -10,7 +10,7 @@
     <artifactId>taotao-manager-service</artifactId>
     <packaging>jar</packaging>
 
-    <name>taotao-service</name>
+    <name>taotao-manager-service</name>
     <url>http://maven.apache.org</url>
 
     <properties>

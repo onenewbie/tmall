@@ -10,7 +10,7 @@
     <artifactId>taotao-manager-mapper</artifactId>
     <packaging>jar</packaging>
 
-    <name>taotao-mapper</name>
+    <name>taotao-manager-mapper</name>
     <url>http://maven.apache.org</url>
 
     <properties>

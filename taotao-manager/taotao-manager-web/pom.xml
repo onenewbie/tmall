@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>taotao-manager-web</artifactId>
     <packaging>war</packaging>
-    <name>taotao-web Maven Webapp</name>
+    <name>taotao-manger-web Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>

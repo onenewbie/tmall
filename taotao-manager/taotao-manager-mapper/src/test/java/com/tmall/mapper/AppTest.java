@@ -1,4 +1,4 @@
-package com.tmall;
+package com.tmall.mapper;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
